@@ -8,7 +8,7 @@ customer reviews, and a contact section with a modern, mobile-first design.
 
 ## Live Demo
 
-[Watchcharm](https://developer-mykhailo.github.io/style-watch/)
+[Watchcharm](https://developer-mykhailo.github.io/watchcharm/)
 
 ## Overview
 
