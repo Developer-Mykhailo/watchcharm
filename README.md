@@ -4,7 +4,7 @@ A responsive landing page for a premium watch brand built with HTML, CSS,
 JavaScript, and Vite. The project showcases products, promotional content,
 customer reviews, and a contact section with a modern, mobile-first design.
 
-**Project Screenshot** ![Watchcharm](./assets/screenshots/home.png)
+**Project Screenshot** ![Watchcharm](./src/assets/screenshots/home.png)
 
 ## Live Demo
 
